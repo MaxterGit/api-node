@@ -15,7 +15,7 @@ app.post('/', function(req, res) {
   res.json({ mensaje: 'Método post' })   
 })
 
-app.del('/', function(req, res) {
+app.delete('/', function(req, res) {
   res.json({ mensaje: 'Método delete' })  
 })
 
