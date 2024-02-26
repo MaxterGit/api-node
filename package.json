@@ -18,5 +18,8 @@
   "homepage": "https://github.com/MaxterGit/api-node#readme",
   "devDependencies": {
     "eslint": "^8.57.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
